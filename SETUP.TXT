@@ -1,0 +1,2 @@
+dont forget to copy index.css and tailwind.css to public folder
+edit index.html to import bundle.css  bundle.js
